@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.goldDadyText{
+    color: #d1ae45;
+}
+.border-gold{
+    border: solid 1px #d1ae45;
+}
+.navbarImg{
+    width: 40px;
+    height: 30px;
+}
+.table-container
+{
+    margin-top: 140px;
+    border: 2px #d1ae45 solid ;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.invoiceBrowser h3
+{
+    border-left: 5px solid white;
+}
+.bottom-dashed
+{
+    border-bottom:dashed 3px #d1ae45;
+    
+}
+.older .end {vertical-align:bottom;text-align:end;}
+
